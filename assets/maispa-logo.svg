@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+<title id="title">Mai Spa</title><desc id="desc">Mai Spa Thai Massage and Therapy</desc>
+<rect width="720" height="190" fill="#101214"/>
+<g transform="translate(12 10)">
+<circle cx="82" cy="78" r="67" fill="none" stroke="#c99b35" stroke-width="2"/>
+<path d="M22 119 Q53 91 77 111 Q102 88 138 119" fill="none" stroke="#c99b35" stroke-width="3"/>
+<path d="M83 103 C64 86 64 66 80 48 C94 65 99 83 83 103Z" fill="#c99b35"/>
+<path d="M83 101 C55 92 46 75 52 61 C70 67 82 82 83 101Z" fill="#c99b35"/>
+<path d="M85 101 C111 91 121 75 114 60 C97 68 86 83 85 101Z" fill="#c99b35"/>
+<path d="M81 43 C75 29 82 18 96 16 C109 19 113 31 105 42 C99 50 88 50 81 43Z" fill="#c99b35"/>
+<path d="M77 54 Q91 42 105 52 Q108 68 92 76 Q81 73 77 54Z" fill="#c99b35"/>
+<path d="M75 57 Q61 78 67 96 Q75 108 86 111" fill="none" stroke="#c99b35" stroke-width="4" stroke-linecap="round"/>
+</g>
+<text x="180" y="105" font-family="Arial,sans-serif" font-size="92" font-weight="500" letter-spacing="-5"><tspan fill="#c99b35">mai</tspan><tspan fill="#9a9da2">spa</tspan></text>
+<text x="184" y="143" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#f1eadf">THAI MASSAGE &amp; THERAPY</text>
+</svg>
