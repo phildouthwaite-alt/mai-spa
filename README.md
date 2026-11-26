@@ -1,6 +1,6 @@
-# Mai Spa — development website
+# MaiSpa — development website
 
-Static, responsive first-stage homepage for Mai Spa Thai Massage & Therapy.
+Static, responsive first-stage homepage for MaiSpa Thai Massage & Therapy.
 
 ## Cloudflare Pages
 - Production branch: main
